@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3d039e9-8452-410d-aa68-c6e766b850b4" name="Changes" comment="TEHTÄVÄ 2 JATKUU">
-      <change afterPath="$PROJECT_DIR$/db-esimerkit/db-esim1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tehtävä2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tehtävä2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli1/tehtävä2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Niconiso"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="04d09fbd-3a4e-489c-8c3e-c0173d803ad1" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Niconiso/ohjelmisto1",
+    "accountId": "04d09fbd-3a4e-489c-8c3e-c0173d803ad1"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -44,6 +53,7 @@
     "Python.tehtävä2.2.executor": "Run",
     "Python.tehtävä2.3.executor": "Run",
     "Python.tehtävä2.4.executor": "Run",
+    "Python.tehtävä2.5.executor": "Run",
     "Python.tehtävä2.6.executor": "Run",
     "Python.tehtävä2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -54,6 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +95,7 @@
       <updated>1724094244334</updated>
       <workItem from="1724094245773" duration="1818000" />
       <workItem from="1724139255206" duration="3409000" />
-      <workItem from="1724147108278" duration="5833000" />
+      <workItem from="1724147108278" duration="11980000" />
     </task>
     <task id="LOCAL-00001" summary="TEHTÄVÄ 2 JATKUU">
       <option name="closed" value="true" />
@@ -94,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724140055199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TEHTÄVÄ 2 JATKUU">
+      <option name="closed" value="true" />
+      <created>1724155546628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724155546628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TEHTÄVÄ 2 JATKUU">
+      <option name="closed" value="true" />
+      <created>1724155630391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724155630391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +153,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_2.coverage" NAME="tehtävä2.2 Coverage Results" MODIFIED="1724140324189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_3.coverage" NAME="tehtävä2.3 Coverage Results" MODIFIED="1724141436176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_6.coverage" NAME="tehtävä2.6 Coverage Results" MODIFIED="1724153504784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_5.coverage" NAME="tehtävä2.5 Coverage Results" MODIFIED="1724167300509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli1" />
     <SUITE FILE_PATH="coverage/pythonProject$tehtävä2.coverage" NAME="tehtävä2 Coverage Results" MODIFIED="1724095715118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
