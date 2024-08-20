@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d039e9-8452-410d-aa68-c6e766b850b4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tehtävä2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tehtävä2.py" afterDir="false" />
+    <list default="true" id="d3d039e9-8452-410d-aa68-c6e766b850b4" name="Changes" comment="TEHTÄVÄ 2 JATKUU">
+      <change afterPath="$PROJECT_DIR$/db-esimerkit/db-esim1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tehtävä2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tehtävä2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli1/tehtävä2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SQL File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -41,6 +42,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.tehtävä2.2.executor": "Run",
+    "Python.tehtävä2.3.executor": "Run",
+    "Python.tehtävä2.4.executor": "Run",
+    "Python.tehtävä2.6.executor": "Run",
     "Python.tehtävä2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -56,6 +60,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nicor\PycharmProjects\pythonProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nicor\PycharmProjects\pythonProject\" />
+      <recent name="C:\Users\nicor\PycharmProjects\pythonProject\moduuli1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -75,15 +83,49 @@
       <option name="presentableId" value="Default" />
       <updated>1724094244334</updated>
       <workItem from="1724094245773" duration="1818000" />
-      <workItem from="1724139255206" duration="683000" />
+      <workItem from="1724139255206" duration="3409000" />
+      <workItem from="1724147108278" duration="5833000" />
     </task>
+    <task id="LOCAL-00001" summary="TEHTÄVÄ 2 JATKUU">
+      <option name="closed" value="true" />
+      <created>1724140055199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724140055199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TEHTÄVÄ 2 JATKUU" />
+    <option name="LAST_COMMIT_MESSAGE" value="TEHTÄVÄ 2 JATKUU" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_2.coverage" NAME="tehtävä2.2 Coverage Results" MODIFIED="1724139921685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_4.coverage" NAME="tehtävä2.4 Coverage Results" MODIFIED="1724147521537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_2.coverage" NAME="tehtävä2.2 Coverage Results" MODIFIED="1724140324189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_3.coverage" NAME="tehtävä2.3 Coverage Results" MODIFIED="1724141436176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$tehtävä2_6.coverage" NAME="tehtävä2.6 Coverage Results" MODIFIED="1724153504784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$tehtävä2.coverage" NAME="tehtävä2 Coverage Results" MODIFIED="1724095715118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
