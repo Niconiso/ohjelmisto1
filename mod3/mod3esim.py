@@ -1,6 +1,9 @@
-rahat = float(input("Anna rahamääräsi: "))
-ehto =  (rahat >= 5)
-print(ehto)
+numero = int(input("Anna numero: "))
+if numero > 0:
+    print("Luku on positiivinen")
+if numero < 0:
+    print("Luku on negatiivinen")
+if numero == 0:
+    print("Luku on nolla")
 
-if ehto:
-    print("Voit ostaa laten")
+
