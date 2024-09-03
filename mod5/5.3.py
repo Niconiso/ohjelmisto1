@@ -6,5 +6,5 @@ if alkuL > 1:
             break
     else:
         print(f"{alkuL} on alkuluku")
-else:
+if alkuL == 0:
     print(f"{alkuL} ei ole alkuluku")
