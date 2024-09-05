@@ -1,11 +1,12 @@
 import random
 
-def noppa():
+def heitto():
     return random.randint(1, 6)
 
-def nopanheitto():
-    silmaluku = 0
-    while silmaluku != 6:
-        silmaluku = noppa()
-        print(f"Nopan määrä on: {silmaluku}")
-nopanheitto()
+def lasku():
+    while True:
+        silmaluku = heitto()
+        print(f"Nopasta tuli: {silmaluku}")
+        if silmaluku == 6:
+            break
+lasku()
