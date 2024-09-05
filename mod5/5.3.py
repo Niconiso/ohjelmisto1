@@ -1,4 +1,4 @@
-alkuL = int(input("Anna luku, ja katsotaan onko se alkuluku: "))
+alkuL = int(input("Anna tarkistettava luku: "))
 if alkuL > 1:
     for i in range(2, (alkuL // 2) + 1):
         if (alkuL % i) == 0:
