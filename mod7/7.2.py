@@ -1,4 +1,4 @@
-nimet = set()
+nimet = []
 while True:
     nimi = input("Anna nimi: ")
     if nimi == "":
@@ -7,7 +7,7 @@ while True:
         print("Aiemmin syötetty nimi")
     else:
         print("Tämä on uusi nimi")
-        nimet.add(nimi)
+        nimet.append(nimi)
 
 print("Syötetyt nimet:")
 for nimi in nimet:
