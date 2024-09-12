@@ -25,3 +25,7 @@ if cursor.rowcount > 0:
     print(f"Tulosrivejä yhteensä: {cursor.rowcount}")
 else:
     print("Ei tuloksia.")
+
+
+    #use flight_game, describe tables,
+    #select ident, name, municipality from airport where ident='ZYTH';
